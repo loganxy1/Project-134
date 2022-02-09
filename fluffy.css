@@ -1,0 +1,20 @@
+.heading{
+    font-family: 'Sedgwick Ave', cursive;
+    letter-spacing: 2px;
+    margin-bottom:25px;
+    font-size: 40px;
+}
+
+body{
+    background-size:cover;
+    position:center;
+}
+
+#status, #objects{
+    font-family: 'Sedgwick Ave', cursive;   
+}
+
+canvas{
+    border: solid 1px black;
+    box-shadow: yellow;
+}
